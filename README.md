@@ -58,6 +58,6 @@ define service {
 
 # References
 
-https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow
-https://learn.microsoft.com/en-us/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth
-https://www.limilabs.com/blog/oauth2-client-credential-flow-office365-exchange-imap-pop3-smtp
+- https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow
+- https://learn.microsoft.com/en-us/exchange/client-developer/legacy-protocols/how-to-authenticate-an-imap-pop-smtp-application-by-using-oauth
+- https://www.limilabs.com/blog/oauth2-client-credential-flow-office365-exchange-imap-pop3-smtp
